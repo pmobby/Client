@@ -8,11 +8,11 @@ import { BasketService } from '../../basket/basket.service';
   styleUrls: ['./product-item.component.scss']
 })
 export class ProductItemComponent implements OnInit {
-  @Input() product: IProduct
+  @Input() product: IProduct;
 
   constructor(private basketService: BasketService) { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 
