@@ -3,8 +3,14 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\shared\\components"
+    "\\src\\app\\account",
+    "\\src\\app\\checkout",
+    "\\src\\app\\checkout\\checkout-success",
+    "\\src\\app\\orders",
+    "\\src\\app\\orders\\order-detailed",
+    "\\src\\app\\shop",
+    "\\src\\app\\shop\\product-details"
   ],
-  "SelectedNode": "\\src\\app\\shop",
+  "SelectedNode": "\\src\\app\\shop\\product-details\\product-details.component.html",
   "PreviewInSolutionExplorer": false
 }
